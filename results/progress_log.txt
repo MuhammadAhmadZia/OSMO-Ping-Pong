@@ -1,0 +1,414 @@
+2026-10-11 05:56:00  Session started. Everything will be saved under: /content/drive/MyDrive/OSMO_PingPong_v2
+2026-10-11 05:56:35  Step 6 descriptive tables saved
+2026-10-11 05:56:45  Step 6b label validity saved
+2026-10-11 05:58:09  Step 6c Cox model saved
+2026-10-11 05:58:33  CV pp rep0 fold0 Majority         fit    0.0s  saved  [1/330 pieces done]
+2026-10-11 05:58:33  CV pp rep0 fold1 Majority         fit    0.0s  saved  [2/330 pieces done]
+2026-10-11 05:58:33  CV pp rep0 fold2 Majority         fit    0.0s  saved  [3/330 pieces done]
+2026-10-11 05:58:33  CV pp rep0 fold3 Majority         fit    0.0s  saved  [4/330 pieces done]
+2026-10-11 05:58:33  CV pp rep0 fold4 Majority         fit    0.0s  saved  [5/330 pieces done]
+2026-10-11 05:58:33  CV pp rep0 fold0 HistRate         fit    0.0s  saved  [6/330 pieces done]
+2026-10-11 05:58:34  CV pp rep0 fold1 HistRate         fit    0.0s  saved  [7/330 pieces done]
+2026-10-11 05:58:34  CV pp rep0 fold2 HistRate         fit    0.0s  saved  [8/330 pieces done]
+2026-10-11 05:58:34  CV pp rep0 fold3 HistRate         fit    0.0s  saved  [9/330 pieces done]
+2026-10-11 05:58:34  CV pp rep0 fold4 HistRate         fit    0.0s  saved  [10/330 pieces done]
+2026-10-11 05:58:35  CV pp rep0 fold0 DecisionTree     fit    0.5s  saved  [11/330 pieces done]
+2026-10-11 05:58:35  CV pp rep0 fold1 DecisionTree     fit    0.5s  saved  [12/330 pieces done]
+2026-10-11 05:58:36  CV pp rep0 fold2 DecisionTree     fit    0.4s  saved  [13/330 pieces done]
+2026-10-11 05:58:37  CV pp rep0 fold3 DecisionTree     fit    0.3s  saved  [14/330 pieces done]
+2026-10-11 05:58:37  CV pp rep0 fold4 DecisionTree     fit    0.3s  saved  [15/330 pieces done]
+2026-10-11 05:58:39  CV pp rep0 fold0 LogReg           fit    1.7s  saved  [16/330 pieces done]
+2026-10-11 05:58:41  CV pp rep0 fold1 LogReg           fit    2.0s  saved  [17/330 pieces done]
+2026-10-11 05:58:44  CV pp rep0 fold2 LogReg           fit    1.9s  saved  [18/330 pieces done]
+2026-10-11 05:58:46  CV pp rep0 fold3 LogReg           fit    1.7s  saved  [19/330 pieces done]
+2026-10-11 05:58:50  CV pp rep0 fold4 LogReg           fit    3.5s  saved  [20/330 pieces done]
+2026-10-11 05:59:08  CV pp rep0 fold0 RandomForest     fit   16.2s  saved  [21/330 pieces done]
+2026-10-11 05:59:27  CV pp rep0 fold1 RandomForest     fit   17.3s  saved  [22/330 pieces done]
+2026-10-11 05:59:46  CV pp rep0 fold2 RandomForest     fit   17.4s  saved  [23/330 pieces done]
+2026-10-11 06:00:03  CV pp rep0 fold3 RandomForest     fit   15.6s  saved  [24/330 pieces done]
+2026-10-11 06:00:20  CV pp rep0 fold4 RandomForest     fit   15.7s  saved  [25/330 pieces done]
+2026-10-11 06:00:21  CV pp rep0 fold0 LightGBM-small   fit    0.7s  saved  [26/330 pieces done]
+2026-10-11 06:00:22  CV pp rep0 fold1 LightGBM-small   fit    0.7s  saved  [27/330 pieces done]
+2026-10-11 06:00:24  CV pp rep0 fold2 LightGBM-small   fit    0.7s  saved  [28/330 pieces done]
+2026-10-11 06:00:24  CV pp rep0 fold3 LightGBM-small   fit    0.5s  saved  [29/330 pieces done]
+2026-10-11 06:00:25  CV pp rep0 fold4 LightGBM-small   fit    0.5s  saved  [30/330 pieces done]
+2026-10-11 06:00:30  CV pp rep0 fold0 LightGBM-default fit    2.9s  saved  [31/330 pieces done]
+2026-10-11 06:00:35  CV pp rep0 fold1 LightGBM-default fit    2.9s  saved  [32/330 pieces done]
+2026-10-11 06:00:41  CV pp rep0 fold2 LightGBM-default fit    4.2s  saved  [33/330 pieces done]
+2026-10-11 06:00:45  CV pp rep0 fold3 LightGBM-default fit    2.9s  saved  [34/330 pieces done]
+2026-10-11 06:00:50  CV pp rep0 fold4 LightGBM-default fit    2.8s  saved  [35/330 pieces done]
+2026-10-11 06:01:00  CV pp rep0 fold0 XGBoost-default  fit    8.0s  saved  [36/330 pieces done]
+2026-10-11 06:01:10  CV pp rep0 fold1 XGBoost-default  fit    9.1s  saved  [37/330 pieces done]
+2026-10-11 06:01:17  CV pp rep0 fold2 XGBoost-default  fit    5.8s  saved  [38/330 pieces done]
+2026-10-11 06:01:27  CV pp rep0 fold3 XGBoost-default  fit    9.2s  saved  [39/330 pieces done]
+2026-10-11 06:01:36  CV pp rep0 fold4 XGBoost-default  fit    7.4s  saved  [40/330 pieces done]
+2026-10-11 06:01:47  CV pp rep0 fold0 LightGBM         fit    9.8s  saved  [41/330 pieces done]
+2026-10-11 06:01:59  CV pp rep0 fold1 LightGBM         fit   10.9s  saved  [42/330 pieces done]
+2026-10-11 06:02:11  CV pp rep0 fold2 LightGBM         fit   10.9s  saved  [43/330 pieces done]
+2026-10-11 06:02:23  CV pp rep0 fold3 LightGBM         fit   10.8s  saved  [44/330 pieces done]
+2026-10-11 06:02:34  CV pp rep0 fold4 LightGBM         fit   10.0s  saved  [45/330 pieces done]
+2026-10-11 06:02:57  CV pp rep0 fold0 XGBoost          fit   21.4s  saved  [46/330 pieces done]
+2026-10-11 06:03:22  CV pp rep0 fold1 XGBoost          fit   24.1s  saved  [47/330 pieces done]
+2026-10-11 06:03:44  CV pp rep0 fold2 XGBoost          fit   20.7s  saved  [48/330 pieces done]
+2026-10-11 06:04:08  CV pp rep0 fold3 XGBoost          fit   23.3s  saved  [49/330 pieces done]
+2026-10-11 06:04:31  CV pp rep0 fold4 XGBoost          fit   21.2s  saved  [50/330 pieces done]
+2026-10-11 06:05:23  CV pp rep0 fold0 CatBoost         fit   52.2s  saved  [51/330 pieces done]
+2026-10-11 06:06:16  CV pp rep0 fold1 CatBoost         fit   52.4s  saved  [52/330 pieces done]
+2026-10-11 06:07:15  CV pp rep0 fold2 CatBoost         fit   58.3s  saved  [53/330 pieces done]
+2026-10-11 06:08:09  CV pp rep0 fold3 CatBoost         fit   53.3s  saved  [54/330 pieces done]
+2026-10-11 06:09:01  CV pp rep0 fold4 CatBoost         fit   51.4s  saved  [55/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold0 Majority         fit    0.0s  saved  [56/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold1 Majority         fit    0.0s  saved  [57/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold2 Majority         fit    0.0s  saved  [58/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold3 Majority         fit    0.0s  saved  [59/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold4 Majority         fit    0.0s  saved  [60/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold0 HistRate         fit    0.0s  saved  [61/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold1 HistRate         fit    0.0s  saved  [62/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold2 HistRate         fit    0.0s  saved  [63/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold3 HistRate         fit    0.0s  saved  [64/330 pieces done]
+2026-10-11 06:09:05  CV pp rep1 fold4 HistRate         fit    0.0s  saved  [65/330 pieces done]
+2026-10-11 06:09:06  CV pp rep1 fold0 DecisionTree     fit    0.5s  saved  [66/330 pieces done]
+2026-10-11 06:09:07  CV pp rep1 fold1 DecisionTree     fit    0.3s  saved  [67/330 pieces done]
+2026-10-11 06:09:07  CV pp rep1 fold2 DecisionTree     fit    0.3s  saved  [68/330 pieces done]
+2026-10-11 06:09:08  CV pp rep1 fold3 DecisionTree     fit    0.3s  saved  [69/330 pieces done]
+2026-10-11 06:09:08  CV pp rep1 fold4 DecisionTree     fit    0.3s  saved  [70/330 pieces done]
+2026-10-11 06:09:10  CV pp rep1 fold0 LogReg           fit    1.8s  saved  [71/330 pieces done]
+2026-10-11 06:09:12  CV pp rep1 fold1 LogReg           fit    1.7s  saved  [72/330 pieces done]
+2026-10-11 06:09:15  CV pp rep1 fold2 LogReg           fit    1.9s  saved  [73/330 pieces done]
+2026-10-11 06:09:17  CV pp rep1 fold3 LogReg           fit    2.4s  saved  [74/330 pieces done]
+2026-10-11 06:09:21  CV pp rep1 fold4 LogReg           fit    3.4s  saved  [75/330 pieces done]
+2026-10-11 06:09:38  CV pp rep1 fold0 RandomForest     fit   15.2s  saved  [76/330 pieces done]
+2026-10-11 06:09:55  CV pp rep1 fold1 RandomForest     fit   15.8s  saved  [77/330 pieces done]
+2026-10-11 06:10:12  CV pp rep1 fold2 RandomForest     fit   15.2s  saved  [78/330 pieces done]
+2026-10-11 06:10:29  CV pp rep1 fold3 RandomForest     fit   15.4s  saved  [79/330 pieces done]
+2026-10-11 06:10:46  CV pp rep1 fold4 RandomForest     fit   15.8s  saved  [80/330 pieces done]
+2026-10-11 06:10:47  CV pp rep1 fold0 LightGBM-small   fit    0.5s  saved  [81/330 pieces done]
+2026-10-11 06:10:47  CV pp rep1 fold1 LightGBM-small   fit    0.5s  saved  [82/330 pieces done]
+2026-10-11 06:10:48  CV pp rep1 fold2 LightGBM-small   fit    0.5s  saved  [83/330 pieces done]
+2026-10-11 06:10:49  CV pp rep1 fold3 LightGBM-small   fit    0.5s  saved  [84/330 pieces done]
+2026-10-11 06:10:50  CV pp rep1 fold4 LightGBM-small   fit    0.5s  saved  [85/330 pieces done]
+2026-10-11 06:10:56  CV pp rep1 fold0 LightGBM-default fit    4.4s  saved  [86/330 pieces done]
+2026-10-11 06:11:01  CV pp rep1 fold1 LightGBM-default fit    2.9s  saved  [87/330 pieces done]
+2026-10-11 06:11:06  CV pp rep1 fold2 LightGBM-default fit    2.9s  saved  [88/330 pieces done]
+2026-10-11 06:11:12  CV pp rep1 fold3 LightGBM-default fit    3.8s  saved  [89/330 pieces done]
+2026-10-11 06:11:17  CV pp rep1 fold4 LightGBM-default fit    2.9s  saved  [90/330 pieces done]
+2026-10-11 06:11:27  CV pp rep1 fold0 XGBoost-default  fit    9.1s  saved  [91/330 pieces done]
+2026-10-11 06:11:34  CV pp rep1 fold1 XGBoost-default  fit    5.8s  saved  [92/330 pieces done]
+2026-10-11 06:11:44  CV pp rep1 fold2 XGBoost-default  fit    9.2s  saved  [93/330 pieces done]
+2026-10-11 06:11:54  CV pp rep1 fold3 XGBoost-default  fit    9.0s  saved  [94/330 pieces done]
+2026-10-11 06:12:01  CV pp rep1 fold4 XGBoost-default  fit    5.8s  saved  [95/330 pieces done]
+2026-10-11 06:12:13  CV pp rep1 fold0 LightGBM         fit   11.0s  saved  [96/330 pieces done]
+2026-10-11 06:12:24  CV pp rep1 fold1 LightGBM         fit   10.7s  saved  [97/330 pieces done]
+2026-10-11 06:12:35  CV pp rep1 fold2 LightGBM         fit    9.7s  saved  [98/330 pieces done]
+2026-10-11 06:12:46  CV pp rep1 fold3 LightGBM         fit    9.8s  saved  [99/330 pieces done]
+2026-10-11 06:12:58  CV pp rep1 fold4 LightGBM         fit   10.9s  saved  [100/330 pieces done]
+2026-10-11 06:13:23  CV pp rep1 fold0 XGBoost          fit   23.8s  saved  [101/330 pieces done]
+2026-10-11 06:13:45  CV pp rep1 fold1 XGBoost          fit   20.5s  saved  [102/330 pieces done]
+2026-10-11 06:14:09  CV pp rep1 fold2 XGBoost          fit   23.0s  saved  [103/330 pieces done]
+2026-10-11 06:14:30  CV pp rep1 fold3 XGBoost          fit   20.2s  saved  [104/330 pieces done]
+2026-10-11 06:14:52  CV pp rep1 fold4 XGBoost          fit   21.1s  saved  [105/330 pieces done]
+2026-10-11 06:15:43  CV pp rep1 fold0 CatBoost         fit   51.0s  saved  [106/330 pieces done]
+2026-10-11 06:16:37  CV pp rep1 fold1 CatBoost         fit   53.7s  saved  [107/330 pieces done]
+2026-10-11 06:17:30  CV pp rep1 fold2 CatBoost         fit   51.4s  saved  [108/330 pieces done]
+2026-10-11 06:18:23  CV pp rep1 fold3 CatBoost         fit   52.8s  saved  [109/330 pieces done]
+2026-10-11 06:19:16  CV pp rep1 fold4 CatBoost         fit   52.8s  saved  [110/330 pieces done]
+2026-10-11 06:19:19  CV pp rep2 fold0 Majority         fit    0.0s  saved  [111/330 pieces done]
+2026-10-11 06:19:19  CV pp rep2 fold1 Majority         fit    0.0s  saved  [112/330 pieces done]
+2026-10-11 06:19:19  CV pp rep2 fold2 Majority         fit    0.0s  saved  [113/330 pieces done]
+2026-10-11 06:19:19  CV pp rep2 fold3 Majority         fit    0.0s  saved  [114/330 pieces done]
+2026-10-11 06:19:19  CV pp rep2 fold4 Majority         fit    0.0s  saved  [115/330 pieces done]
+2026-10-11 06:19:19  CV pp rep2 fold0 HistRate         fit    0.0s  saved  [116/330 pieces done]
+2026-10-11 06:19:19  CV pp rep2 fold1 HistRate         fit    0.0s  saved  [117/330 pieces done]
+2026-10-11 06:19:20  CV pp rep2 fold2 HistRate         fit    0.0s  saved  [118/330 pieces done]
+2026-10-11 06:19:20  CV pp rep2 fold3 HistRate         fit    0.0s  saved  [119/330 pieces done]
+2026-10-11 06:19:20  CV pp rep2 fold4 HistRate         fit    0.0s  saved  [120/330 pieces done]
+2026-10-11 06:19:20  CV pp rep2 fold0 DecisionTree     fit    0.3s  saved  [121/330 pieces done]
+2026-10-11 06:19:21  CV pp rep2 fold1 DecisionTree     fit    0.3s  saved  [122/330 pieces done]
+2026-10-11 06:19:21  CV pp rep2 fold2 DecisionTree     fit    0.3s  saved  [123/330 pieces done]
+2026-10-11 06:19:22  CV pp rep2 fold3 DecisionTree     fit    0.3s  saved  [124/330 pieces done]
+2026-10-11 06:19:22  CV pp rep2 fold4 DecisionTree     fit    0.3s  saved  [125/330 pieces done]
+2026-10-11 06:19:24  CV pp rep2 fold0 LogReg           fit    1.8s  saved  [126/330 pieces done]
+2026-10-11 06:19:27  CV pp rep2 fold1 LogReg           fit    1.8s  saved  [127/330 pieces done]
+2026-10-11 06:19:31  CV pp rep2 fold2 LogReg           fit    3.5s  saved  [128/330 pieces done]
+2026-10-11 06:19:33  CV pp rep2 fold3 LogReg           fit    2.2s  saved  [129/330 pieces done]
+2026-10-11 06:19:35  CV pp rep2 fold4 LogReg           fit    1.7s  saved  [130/330 pieces done]
+2026-10-11 06:19:52  CV pp rep2 fold0 RandomForest     fit   15.6s  saved  [131/330 pieces done]
+2026-10-11 06:20:09  CV pp rep2 fold1 RandomForest     fit   15.6s  saved  [132/330 pieces done]
+2026-10-11 06:20:26  CV pp rep2 fold2 RandomForest     fit   15.2s  saved  [133/330 pieces done]
+2026-10-11 06:20:42  CV pp rep2 fold3 RandomForest     fit   15.3s  saved  [134/330 pieces done]
+2026-10-11 06:20:59  CV pp rep2 fold4 RandomForest     fit   15.1s  saved  [135/330 pieces done]
+2026-10-11 06:21:00  CV pp rep2 fold0 LightGBM-small   fit    0.5s  saved  [136/330 pieces done]
+2026-10-11 06:21:01  CV pp rep2 fold1 LightGBM-small   fit    0.7s  saved  [137/330 pieces done]
+2026-10-11 06:21:02  CV pp rep2 fold2 LightGBM-small   fit    0.7s  saved  [138/330 pieces done]
+2026-10-11 06:21:03  CV pp rep2 fold3 LightGBM-small   fit    0.7s  saved  [139/330 pieces done]
+2026-10-11 06:21:04  CV pp rep2 fold4 LightGBM-small   fit    0.7s  saved  [140/330 pieces done]
+2026-10-11 06:21:08  CV pp rep2 fold0 LightGBM-default fit    2.9s  saved  [141/330 pieces done]
+2026-10-11 06:21:13  CV pp rep2 fold1 LightGBM-default fit    2.9s  saved  [142/330 pieces done]
+2026-10-11 06:21:19  CV pp rep2 fold2 LightGBM-default fit    3.9s  saved  [143/330 pieces done]
+2026-10-11 06:21:24  CV pp rep2 fold3 LightGBM-default fit    2.8s  saved  [144/330 pieces done]
+2026-10-11 06:21:28  CV pp rep2 fold4 LightGBM-default fit    2.8s  saved  [145/330 pieces done]
+2026-10-11 06:21:38  CV pp rep2 fold0 XGBoost-default  fit    9.1s  saved  [146/330 pieces done]
+2026-10-11 06:21:49  CV pp rep2 fold1 XGBoost-default  fit    8.9s  saved  [147/330 pieces done]
+2026-10-11 06:21:56  CV pp rep2 fold2 XGBoost-default  fit    5.9s  saved  [148/330 pieces done]
+2026-10-11 06:22:06  CV pp rep2 fold3 XGBoost-default  fit    9.0s  saved  [149/330 pieces done]
+2026-10-11 06:22:12  CV pp rep2 fold4 XGBoost-default  fit    5.8s  saved  [150/330 pieces done]
+2026-10-11 06:22:24  CV pp rep2 fold0 LightGBM         fit   10.8s  saved  [151/330 pieces done]
+2026-10-11 06:22:36  CV pp rep2 fold1 LightGBM         fit   10.8s  saved  [152/330 pieces done]
+2026-10-11 06:22:48  CV pp rep2 fold2 LightGBM         fit   10.9s  saved  [153/330 pieces done]
+2026-10-11 06:22:59  CV pp rep2 fold3 LightGBM         fit    9.8s  saved  [154/330 pieces done]
+2026-10-11 06:23:10  CV pp rep2 fold4 LightGBM         fit    9.9s  saved  [155/330 pieces done]
+2026-10-11 06:23:35  CV pp rep2 fold0 XGBoost          fit   23.4s  saved  [156/330 pieces done]
+2026-10-11 06:23:56  CV pp rep2 fold1 XGBoost          fit   20.1s  saved  [157/330 pieces done]
+2026-10-11 06:24:19  CV pp rep2 fold2 XGBoost          fit   22.4s  saved  [158/330 pieces done]
+2026-10-11 06:24:43  CV pp rep2 fold3 XGBoost          fit   22.0s  saved  [159/330 pieces done]
+2026-10-11 06:25:05  CV pp rep2 fold4 XGBoost          fit   20.7s  saved  [160/330 pieces done]
+2026-10-11 06:25:57  CV pp rep2 fold0 CatBoost         fit   51.5s  saved  [161/330 pieces done]
+2026-10-11 06:26:50  CV pp rep2 fold1 CatBoost         fit   52.8s  saved  [162/330 pieces done]
+2026-10-11 06:27:44  CV pp rep2 fold2 CatBoost         fit   53.2s  saved  [163/330 pieces done]
+2026-10-11 06:28:35  CV pp rep2 fold3 CatBoost         fit   50.9s  saved  [164/330 pieces done]
+2026-10-11 06:29:29  CV pp rep2 fold4 CatBoost         fit   53.6s  saved  [165/330 pieces done]
+2026-10-11 06:29:32  CV xpp rep0 fold0 Majority         fit    0.0s  saved  [166/330 pieces done]
+2026-10-11 06:29:32  CV xpp rep0 fold1 Majority         fit    0.0s  saved  [167/330 pieces done]
+2026-10-11 06:29:32  CV xpp rep0 fold2 Majority         fit    0.0s  saved  [168/330 pieces done]
+2026-10-11 06:29:32  CV xpp rep0 fold3 Majority         fit    0.0s  saved  [169/330 pieces done]
+2026-10-11 06:29:32  CV xpp rep0 fold4 Majority         fit    0.0s  saved  [170/330 pieces done]
+2026-10-11 06:29:32  CV xpp rep0 fold0 HistRate         fit    0.0s  saved  [171/330 pieces done]
+2026-10-11 06:29:33  CV xpp rep0 fold1 HistRate         fit    0.0s  saved  [172/330 pieces done]
+2026-10-11 06:29:33  CV xpp rep0 fold2 HistRate         fit    0.0s  saved  [173/330 pieces done]
+2026-10-11 06:29:33  CV xpp rep0 fold3 HistRate         fit    0.0s  saved  [174/330 pieces done]
+2026-10-11 06:29:33  CV xpp rep0 fold4 HistRate         fit    0.0s  saved  [175/330 pieces done]
+2026-10-11 06:29:33  CV xpp rep0 fold0 DecisionTree     fit    0.3s  saved  [176/330 pieces done]
+2026-10-11 06:29:34  CV xpp rep0 fold1 DecisionTree     fit    0.4s  saved  [177/330 pieces done]
+2026-10-11 06:29:34  CV xpp rep0 fold2 DecisionTree     fit    0.3s  saved  [178/330 pieces done]
+2026-10-11 06:29:35  CV xpp rep0 fold3 DecisionTree     fit    0.4s  saved  [179/330 pieces done]
+2026-10-11 06:29:35  CV xpp rep0 fold4 DecisionTree     fit    0.3s  saved  [180/330 pieces done]
+2026-10-11 06:29:38  CV xpp rep0 fold0 LogReg           fit    1.7s  saved  [181/330 pieces done]
+2026-10-11 06:29:41  CV xpp rep0 fold1 LogReg           fit    2.8s  saved  [182/330 pieces done]
+2026-10-11 06:29:44  CV xpp rep0 fold2 LogReg           fit    2.8s  saved  [183/330 pieces done]
+2026-10-11 06:29:46  CV xpp rep0 fold3 LogReg           fit    1.5s  saved  [184/330 pieces done]
+2026-10-11 06:29:48  CV xpp rep0 fold4 LogReg           fit    1.6s  saved  [185/330 pieces done]
+2026-10-11 06:30:05  CV xpp rep0 fold0 RandomForest     fit   15.8s  saved  [186/330 pieces done]
+2026-10-11 06:30:23  CV xpp rep0 fold1 RandomForest     fit   16.1s  saved  [187/330 pieces done]
+2026-10-11 06:30:40  CV xpp rep0 fold2 RandomForest     fit   15.5s  saved  [188/330 pieces done]
+2026-10-11 06:30:57  CV xpp rep0 fold3 RandomForest     fit   15.8s  saved  [189/330 pieces done]
+2026-10-11 06:31:15  CV xpp rep0 fold4 RandomForest     fit   15.6s  saved  [190/330 pieces done]
+2026-10-11 06:31:16  CV xpp rep0 fold0 LightGBM-small   fit    0.7s  saved  [191/330 pieces done]
+2026-10-11 06:31:17  CV xpp rep0 fold1 LightGBM-small   fit    0.7s  saved  [192/330 pieces done]
+2026-10-11 06:31:18  CV xpp rep0 fold2 LightGBM-small   fit    0.5s  saved  [193/330 pieces done]
+2026-10-11 06:31:18  CV xpp rep0 fold3 LightGBM-small   fit    0.5s  saved  [194/330 pieces done]
+2026-10-11 06:31:19  CV xpp rep0 fold4 LightGBM-small   fit    0.5s  saved  [195/330 pieces done]
+2026-10-11 06:31:24  CV xpp rep0 fold0 LightGBM-default fit    2.8s  saved  [196/330 pieces done]
+2026-10-11 06:31:29  CV xpp rep0 fold1 LightGBM-default fit    2.8s  saved  [197/330 pieces done]
+2026-10-11 06:31:34  CV xpp rep0 fold2 LightGBM-default fit    3.8s  saved  [198/330 pieces done]
+2026-10-11 06:31:39  CV xpp rep0 fold3 LightGBM-default fit    2.8s  saved  [199/330 pieces done]
+2026-10-11 06:31:44  CV xpp rep0 fold4 LightGBM-default fit    3.0s  saved  [200/330 pieces done]
+2026-10-11 06:31:53  CV xpp rep0 fold0 XGBoost-default  fit    7.5s  saved  [201/330 pieces done]
+2026-10-11 06:32:04  CV xpp rep0 fold1 XGBoost-default  fit    9.3s  saved  [202/330 pieces done]
+2026-10-11 06:32:11  CV xpp rep0 fold2 XGBoost-default  fit    5.9s  saved  [203/330 pieces done]
+2026-10-11 06:32:21  CV xpp rep0 fold3 XGBoost-default  fit    9.3s  saved  [204/330 pieces done]
+2026-10-11 06:32:31  CV xpp rep0 fold4 XGBoost-default  fit    9.1s  saved  [205/330 pieces done]
+2026-10-11 06:32:42  CV xpp rep0 fold0 LightGBM         fit    9.8s  saved  [206/330 pieces done]
+2026-10-11 06:32:57  CV xpp rep0 fold1 LightGBM         fit   13.4s  saved  [207/330 pieces done]
+2026-10-11 06:33:09  CV xpp rep0 fold2 LightGBM         fit   10.1s  saved  [208/330 pieces done]
+2026-10-11 06:33:20  CV xpp rep0 fold3 LightGBM         fit   11.0s  saved  [209/330 pieces done]
+2026-10-11 06:33:32  CV xpp rep0 fold4 LightGBM         fit   10.8s  saved  [210/330 pieces done]
+2026-10-11 06:33:54  CV xpp rep0 fold0 XGBoost          fit   21.0s  saved  [211/330 pieces done]
+2026-10-11 06:34:19  CV xpp rep0 fold1 XGBoost          fit   24.0s  saved  [212/330 pieces done]
+2026-10-11 06:34:45  CV xpp rep0 fold2 XGBoost          fit   24.9s  saved  [213/330 pieces done]
+2026-10-11 06:35:09  CV xpp rep0 fold3 XGBoost          fit   21.8s  saved  [214/330 pieces done]
+2026-10-11 06:35:33  CV xpp rep0 fold4 XGBoost          fit   23.0s  saved  [215/330 pieces done]
+2026-10-11 06:36:28  CV xpp rep0 fold0 CatBoost         fit   54.6s  saved  [216/330 pieces done]
+2026-10-11 06:37:21  CV xpp rep0 fold1 CatBoost         fit   52.5s  saved  [217/330 pieces done]
+2026-10-11 06:38:15  CV xpp rep0 fold2 CatBoost         fit   54.4s  saved  [218/330 pieces done]
+2026-10-11 06:39:10  CV xpp rep0 fold3 CatBoost         fit   54.4s  saved  [219/330 pieces done]
+2026-10-11 06:40:04  CV xpp rep0 fold4 CatBoost         fit   52.6s  saved  [220/330 pieces done]
+2026-10-11 06:40:06  CV xpp rep1 fold0 Majority         fit    0.0s  saved  [221/330 pieces done]
+2026-10-11 06:40:06  CV xpp rep1 fold1 Majority         fit    0.0s  saved  [222/330 pieces done]
+2026-10-11 06:40:06  CV xpp rep1 fold2 Majority         fit    0.0s  saved  [223/330 pieces done]
+2026-10-11 06:40:06  CV xpp rep1 fold3 Majority         fit    0.0s  saved  [224/330 pieces done]
+2026-10-11 06:40:07  CV xpp rep1 fold4 Majority         fit    0.0s  saved  [225/330 pieces done]
+2026-10-11 06:40:07  CV xpp rep1 fold0 HistRate         fit    0.0s  saved  [226/330 pieces done]
+2026-10-11 06:40:07  CV xpp rep1 fold1 HistRate         fit    0.0s  saved  [227/330 pieces done]
+2026-10-11 06:40:07  CV xpp rep1 fold2 HistRate         fit    0.0s  saved  [228/330 pieces done]
+2026-10-11 06:40:07  CV xpp rep1 fold3 HistRate         fit    0.0s  saved  [229/330 pieces done]
+2026-10-11 06:40:07  CV xpp rep1 fold4 HistRate         fit    0.0s  saved  [230/330 pieces done]
+2026-10-11 06:40:08  CV xpp rep1 fold0 DecisionTree     fit    0.5s  saved  [231/330 pieces done]
+2026-10-11 06:40:09  CV xpp rep1 fold1 DecisionTree     fit    0.5s  saved  [232/330 pieces done]
+2026-10-11 06:40:10  CV xpp rep1 fold2 DecisionTree     fit    0.5s  saved  [233/330 pieces done]
+2026-10-11 06:40:10  CV xpp rep1 fold3 DecisionTree     fit    0.6s  saved  [234/330 pieces done]
+2026-10-11 06:40:11  CV xpp rep1 fold4 DecisionTree     fit    0.5s  saved  [235/330 pieces done]
+2026-10-11 06:40:13  CV xpp rep1 fold0 LogReg           fit    1.8s  saved  [236/330 pieces done]
+2026-10-11 06:40:15  CV xpp rep1 fold1 LogReg           fit    1.8s  saved  [237/330 pieces done]
+2026-10-11 06:40:17  CV xpp rep1 fold2 LogReg           fit    1.6s  saved  [238/330 pieces done]
+2026-10-11 06:40:19  CV xpp rep1 fold3 LogReg           fit    1.7s  saved  [239/330 pieces done]
+2026-10-11 06:40:22  CV xpp rep1 fold4 LogReg           fit    1.8s  saved  [240/330 pieces done]
+2026-10-11 06:40:40  CV xpp rep1 fold0 RandomForest     fit   15.6s  saved  [241/330 pieces done]
+2026-10-11 06:40:58  CV xpp rep1 fold1 RandomForest     fit   15.9s  saved  [242/330 pieces done]
+2026-10-11 06:41:15  CV xpp rep1 fold2 RandomForest     fit   15.9s  saved  [243/330 pieces done]
+2026-10-11 06:41:32  CV xpp rep1 fold3 RandomForest     fit   15.6s  saved  [244/330 pieces done]
+2026-10-11 06:41:49  CV xpp rep1 fold4 RandomForest     fit   15.6s  saved  [245/330 pieces done]
+2026-10-11 06:41:49  CV xpp rep1 fold0 LightGBM-small   fit    0.5s  saved  [246/330 pieces done]
+2026-10-11 06:41:50  CV xpp rep1 fold1 LightGBM-small   fit    0.5s  saved  [247/330 pieces done]
+2026-10-11 06:41:51  CV xpp rep1 fold2 LightGBM-small   fit    0.5s  saved  [248/330 pieces done]
+2026-10-11 06:41:52  CV xpp rep1 fold3 LightGBM-small   fit    0.5s  saved  [249/330 pieces done]
+2026-10-11 06:41:52  CV xpp rep1 fold4 LightGBM-small   fit    0.5s  saved  [250/330 pieces done]
+2026-10-11 06:41:58  CV xpp rep1 fold0 LightGBM-default fit    3.4s  saved  [251/330 pieces done]
+2026-10-11 06:42:03  CV xpp rep1 fold1 LightGBM-default fit    3.2s  saved  [252/330 pieces done]
+2026-10-11 06:42:08  CV xpp rep1 fold2 LightGBM-default fit    2.9s  saved  [253/330 pieces done]
+2026-10-11 06:42:14  CV xpp rep1 fold3 LightGBM-default fit    3.9s  saved  [254/330 pieces done]
+2026-10-11 06:42:19  CV xpp rep1 fold4 LightGBM-default fit    2.9s  saved  [255/330 pieces done]
+2026-10-11 06:42:28  CV xpp rep1 fold0 XGBoost-default  fit    7.2s  saved  [256/330 pieces done]
+2026-10-11 06:42:35  CV xpp rep1 fold1 XGBoost-default  fit    6.7s  saved  [257/330 pieces done]
+2026-10-11 06:42:46  CV xpp rep1 fold2 XGBoost-default  fit    9.1s  saved  [258/330 pieces done]
+2026-10-11 06:42:53  CV xpp rep1 fold3 XGBoost-default  fit    6.0s  saved  [259/330 pieces done]
+2026-10-11 06:43:03  CV xpp rep1 fold4 XGBoost-default  fit    9.2s  saved  [260/330 pieces done]
+2026-10-11 06:43:15  CV xpp rep1 fold0 LightGBM         fit   11.1s  saved  [261/330 pieces done]
+2026-10-11 06:43:27  CV xpp rep1 fold1 LightGBM         fit   10.2s  saved  [262/330 pieces done]
+2026-10-11 06:43:38  CV xpp rep1 fold2 LightGBM         fit    9.8s  saved  [263/330 pieces done]
+2026-10-11 06:43:50  CV xpp rep1 fold3 LightGBM         fit   10.9s  saved  [264/330 pieces done]
+2026-10-11 06:44:02  CV xpp rep1 fold4 LightGBM         fit   11.0s  saved  [265/330 pieces done]
+2026-10-11 06:44:25  CV xpp rep1 fold0 XGBoost          fit   21.0s  saved  [266/330 pieces done]
+2026-10-11 06:44:48  CV xpp rep1 fold1 XGBoost          fit   22.0s  saved  [267/330 pieces done]
+2026-10-11 06:45:12  CV xpp rep1 fold2 XGBoost          fit   23.2s  saved  [268/330 pieces done]
+2026-10-11 06:45:34  CV xpp rep1 fold3 XGBoost          fit   21.0s  saved  [269/330 pieces done]
+2026-10-11 06:45:59  CV xpp rep1 fold4 XGBoost          fit   24.0s  saved  [270/330 pieces done]
+2026-10-11 06:46:54  CV xpp rep1 fold0 CatBoost         fit   54.1s  saved  [271/330 pieces done]
+2026-10-11 06:47:48  CV xpp rep1 fold1 CatBoost         fit   53.4s  saved  [272/330 pieces done]
+2026-10-11 06:48:43  CV xpp rep1 fold2 CatBoost         fit   54.9s  saved  [273/330 pieces done]
+2026-10-11 06:49:37  CV xpp rep1 fold3 CatBoost         fit   52.8s  saved  [274/330 pieces done]
+2026-10-11 06:50:31  CV xpp rep1 fold4 CatBoost         fit   53.5s  saved  [275/330 pieces done]
+2026-10-11 06:50:33  CV xpp rep2 fold0 Majority         fit    0.0s  saved  [276/330 pieces done]
+2026-10-11 06:50:33  CV xpp rep2 fold1 Majority         fit    0.0s  saved  [277/330 pieces done]
+2026-10-11 06:50:33  CV xpp rep2 fold2 Majority         fit    0.0s  saved  [278/330 pieces done]
+2026-10-11 06:50:33  CV xpp rep2 fold3 Majority         fit    0.0s  saved  [279/330 pieces done]
+2026-10-11 06:50:33  CV xpp rep2 fold4 Majority         fit    0.0s  saved  [280/330 pieces done]
+2026-10-11 06:50:34  CV xpp rep2 fold0 HistRate         fit    0.0s  saved  [281/330 pieces done]
+2026-10-11 06:50:34  CV xpp rep2 fold1 HistRate         fit    0.0s  saved  [282/330 pieces done]
+2026-10-11 06:50:34  CV xpp rep2 fold2 HistRate         fit    0.0s  saved  [283/330 pieces done]
+2026-10-11 06:50:34  CV xpp rep2 fold3 HistRate         fit    0.0s  saved  [284/330 pieces done]
+2026-10-11 06:50:34  CV xpp rep2 fold4 HistRate         fit    0.0s  saved  [285/330 pieces done]
+2026-10-11 06:50:35  CV xpp rep2 fold0 DecisionTree     fit    0.5s  saved  [286/330 pieces done]
+2026-10-11 06:50:36  CV xpp rep2 fold1 DecisionTree     fit    0.5s  saved  [287/330 pieces done]
+2026-10-11 06:50:36  CV xpp rep2 fold2 DecisionTree     fit    0.5s  saved  [288/330 pieces done]
+2026-10-11 06:50:37  CV xpp rep2 fold3 DecisionTree     fit    0.5s  saved  [289/330 pieces done]
+2026-10-11 06:50:38  CV xpp rep2 fold4 DecisionTree     fit    0.5s  saved  [290/330 pieces done]
+2026-10-11 06:50:40  CV xpp rep2 fold0 LogReg           fit    1.7s  saved  [291/330 pieces done]
+2026-10-11 06:50:42  CV xpp rep2 fold1 LogReg           fit    1.6s  saved  [292/330 pieces done]
+2026-10-11 06:50:44  CV xpp rep2 fold2 LogReg           fit    1.7s  saved  [293/330 pieces done]
+2026-10-11 06:50:46  CV xpp rep2 fold3 LogReg           fit    1.7s  saved  [294/330 pieces done]
+2026-10-11 06:50:48  CV xpp rep2 fold4 LogReg           fit    1.7s  saved  [295/330 pieces done]
+2026-10-11 06:51:07  CV xpp rep2 fold0 RandomForest     fit   16.1s  saved  [296/330 pieces done]
+2026-10-11 06:51:24  CV xpp rep2 fold1 RandomForest     fit   15.5s  saved  [297/330 pieces done]
+2026-10-11 06:51:41  CV xpp rep2 fold2 RandomForest     fit   15.6s  saved  [298/330 pieces done]
+2026-10-11 06:51:58  CV xpp rep2 fold3 RandomForest     fit   15.7s  saved  [299/330 pieces done]
+2026-10-11 06:52:15  CV xpp rep2 fold4 RandomForest     fit   15.8s  saved  [300/330 pieces done]
+2026-10-11 06:52:16  CV xpp rep2 fold0 LightGBM-small   fit    0.5s  saved  [301/330 pieces done]
+2026-10-11 06:52:17  CV xpp rep2 fold1 LightGBM-small   fit    0.5s  saved  [302/330 pieces done]
+2026-10-11 06:52:18  CV xpp rep2 fold2 LightGBM-small   fit    0.5s  saved  [303/330 pieces done]
+2026-10-11 06:52:18  CV xpp rep2 fold3 LightGBM-small   fit    0.5s  saved  [304/330 pieces done]
+2026-10-11 06:52:19  CV xpp rep2 fold4 LightGBM-small   fit    0.5s  saved  [305/330 pieces done]
+2026-10-11 06:52:25  CV xpp rep2 fold0 LightGBM-default fit    3.4s  saved  [306/330 pieces done]
+2026-10-11 06:52:30  CV xpp rep2 fold1 LightGBM-default fit    3.3s  saved  [307/330 pieces done]
+2026-10-11 06:52:34  CV xpp rep2 fold2 LightGBM-default fit    2.9s  saved  [308/330 pieces done]
+2026-10-11 06:52:40  CV xpp rep2 fold3 LightGBM-default fit    3.4s  saved  [309/330 pieces done]
+2026-10-11 06:52:45  CV xpp rep2 fold4 LightGBM-default fit    3.1s  saved  [310/330 pieces done]
+2026-10-11 06:52:52  CV xpp rep2 fold0 XGBoost-default  fit    6.0s  saved  [311/330 pieces done]
+2026-10-11 06:53:02  CV xpp rep2 fold1 XGBoost-default  fit    8.2s  saved  [312/330 pieces done]
+2026-10-11 06:53:12  CV xpp rep2 fold2 XGBoost-default  fit    9.3s  saved  [313/330 pieces done]
+2026-10-11 06:53:19  CV xpp rep2 fold3 XGBoost-default  fit    5.9s  saved  [314/330 pieces done]
+2026-10-11 06:53:30  CV xpp rep2 fold4 XGBoost-default  fit    9.3s  saved  [315/330 pieces done]
+2026-10-11 06:53:41  CV xpp rep2 fold0 LightGBM         fit   10.8s  saved  [316/330 pieces done]
+2026-10-11 06:53:53  CV xpp rep2 fold1 LightGBM         fit    9.9s  saved  [317/330 pieces done]
+2026-10-11 06:54:04  CV xpp rep2 fold2 LightGBM         fit    9.9s  saved  [318/330 pieces done]
+2026-10-11 06:54:16  CV xpp rep2 fold3 LightGBM         fit   11.0s  saved  [319/330 pieces done]
+2026-10-11 06:54:28  CV xpp rep2 fold4 LightGBM         fit   11.3s  saved  [320/330 pieces done]
+2026-10-11 06:54:51  CV xpp rep2 fold0 XGBoost          fit   21.0s  saved  [321/330 pieces done]
+2026-10-11 06:55:14  CV xpp rep2 fold1 XGBoost          fit   22.1s  saved  [322/330 pieces done]
+2026-10-11 06:55:40  CV xpp rep2 fold2 XGBoost          fit   24.5s  saved  [323/330 pieces done]
+2026-10-11 06:56:02  CV xpp rep2 fold3 XGBoost          fit   21.1s  saved  [324/330 pieces done]
+2026-10-11 06:56:26  CV xpp rep2 fold4 XGBoost          fit   23.3s  saved  [325/330 pieces done]
+2026-10-11 06:57:21  CV xpp rep2 fold0 CatBoost         fit   54.5s  saved  [326/330 pieces done]
+2026-10-11 06:58:14  CV xpp rep2 fold1 CatBoost         fit   52.2s  saved  [327/330 pieces done]
+2026-10-11 06:59:09  CV xpp rep2 fold2 CatBoost         fit   55.3s  saved  [328/330 pieces done]
+2026-10-11 07:00:05  CV xpp rep2 fold3 CatBoost         fit   54.7s  saved  [329/330 pieces done]
+2026-10-11 07:00:57  CV xpp rep2 fold4 CatBoost         fit   52.1s  saved  [330/330 pieces done]
+2026-10-11 07:00:57  Cross-validation complete
+2026-10-11 07:01:07  Step 10 metrics saved
+2026-10-11 07:01:07  Temporal split pp Majority saved
+2026-10-11 07:01:07  Temporal split pp HistRate saved
+2026-10-11 07:01:08  Temporal split pp DecisionTree saved
+2026-10-11 07:01:10  Temporal split pp LogReg saved
+2026-10-11 07:01:27  Temporal split pp RandomForest saved
+2026-10-11 07:01:28  Temporal split pp LightGBM-small saved
+2026-10-11 07:01:35  Temporal split pp LightGBM-default saved
+2026-10-11 07:01:41  Temporal split pp XGBoost-default saved
+2026-10-11 07:01:53  Temporal split pp LightGBM saved
+2026-10-11 07:02:17  Temporal split pp XGBoost saved
+2026-10-11 07:03:10  Temporal split pp CatBoost saved
+2026-10-11 07:03:10  Temporal split xpp Majority saved
+2026-10-11 07:03:10  Temporal split xpp HistRate saved
+2026-10-11 07:03:10  Temporal split xpp DecisionTree saved
+2026-10-11 07:03:13  Temporal split xpp LogReg saved
+2026-10-11 07:03:29  Temporal split xpp RandomForest saved
+2026-10-11 07:03:30  Temporal split xpp LightGBM-small saved
+2026-10-11 07:03:36  Temporal split xpp LightGBM-default saved
+2026-10-11 07:03:43  Temporal split xpp XGBoost-default saved
+2026-10-11 07:03:56  Temporal split xpp LightGBM saved
+2026-10-11 07:04:21  Temporal split xpp XGBoost saved
+2026-10-11 07:05:15  Temporal split xpp CatBoost saved
+2026-10-11 07:05:28  Robustness def_D2_team_home fold0 saved
+2026-10-11 07:05:39  Robustness def_D2_team_home fold1 saved
+2026-10-11 07:05:50  Robustness def_D2_team_home fold2 saved
+2026-10-11 07:06:01  Robustness def_D2_team_home fold3 saved
+2026-10-11 07:06:11  Robustness def_D2_team_home fold4 saved
+2026-10-11 07:06:25  Robustness def_D3_dominant75 fold0 saved
+2026-10-11 07:06:47  Robustness def_D3_dominant75 fold1 saved
+2026-10-11 07:07:06  Robustness def_D3_dominant75 fold2 saved
+2026-10-11 07:07:18  Robustness def_D3_dominant75 fold3 saved
+2026-10-11 07:07:28  Robustness def_D3_dominant75 fold4 saved
+2026-10-11 07:07:41  Robustness def_D5_handler fold0 saved
+2026-10-11 07:07:53  Robustness def_D5_handler fold1 saved
+2026-10-11 07:08:04  Robustness def_D5_handler fold2 saved
+2026-10-11 07:08:15  Robustness def_D5_handler fold3 saved
+2026-10-11 07:08:25  Robustness def_D5_handler fold4 saved
+2026-10-11 07:08:39  Robustness window_from_2012-04-01 fold0 saved
+2026-10-11 07:08:50  Robustness window_from_2012-04-01 fold1 saved
+2026-10-11 07:09:01  Robustness window_from_2012-04-01 fold2 saved
+2026-10-11 07:09:12  Robustness window_from_2012-04-01 fold3 saved
+2026-10-11 07:09:22  Robustness window_from_2012-04-01 fold4 saved
+2026-10-11 07:09:33  Robustness ablation_initial_routing_only fold0 saved
+2026-10-11 07:09:39  Robustness ablation_initial_routing_only fold1 saved
+2026-10-11 07:09:47  Robustness ablation_initial_routing_only fold2 saved
+2026-10-11 07:09:53  Robustness ablation_initial_routing_only fold3 saved
+2026-10-11 07:10:01  Robustness ablation_initial_routing_only fold4 saved
+2026-10-11 07:10:13  Robustness ablation_prefix_dynamics_only fold0 saved
+2026-10-11 07:10:22  Robustness ablation_prefix_dynamics_only fold1 saved
+2026-10-11 07:10:32  Robustness ablation_prefix_dynamics_only fold2 saved
+2026-10-11 07:10:42  Robustness ablation_prefix_dynamics_only fold3 saved
+2026-10-11 07:10:51  Robustness ablation_prefix_dynamics_only fold4 saved
+2026-10-11 07:11:05  Robustness ablation_combined fold0 saved
+2026-10-11 07:11:17  Robustness ablation_combined fold1 saved
+2026-10-11 07:11:28  Robustness ablation_combined fold2 saved
+2026-10-11 07:11:38  Robustness ablation_combined fold3 saved
+2026-10-11 07:11:49  Robustness ablation_combined fold4 saved
+2026-10-11 07:12:07  SHAP step saved
+2026-10-11 07:12:07  Deployment cost Majority saved
+2026-10-11 07:12:07  Deployment cost HistRate saved
+2026-10-11 07:12:11  Deployment cost DecisionTree saved
+2026-10-11 07:12:15  Deployment cost LogReg saved
+2026-10-11 07:12:28  Deployment cost RandomForest saved
+2026-10-11 07:12:30  Deployment cost LightGBM-small saved
+2026-10-11 07:12:33  Deployment cost LightGBM-default saved
+2026-10-11 07:12:36  Deployment cost XGBoost-default saved
+2026-10-11 07:12:39  Deployment cost LightGBM saved
+2026-10-11 07:12:43  Deployment cost XGBoost saved
+2026-10-11 07:12:44  Deployment cost CatBoost saved
+2026-10-11 07:12:44  Figure saved: fig1_country_pairs.png
+2026-10-11 07:12:45  Figure saved: fig2_cox_hazard_ratio.png
+2026-10-11 07:12:45  Figure saved: fig3_rate_by_hour.png
+2026-10-11 07:12:46  Figure saved: fig4_auc_by_prefix.png
+2026-10-11 07:12:46  Figure saved: fig5_alert_budget.png
+2026-10-11 07:12:47  Figure saved: fig6_shap.png
+2026-10-11 07:12:47  Figure saved: fig7_latency.png
+2026-10-11 07:12:48  Figure saved: fig8_common_cohort.png
+2026-10-11 07:12:48  Results summary saved

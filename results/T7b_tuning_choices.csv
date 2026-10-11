@@ -1,0 +1,8 @@
+target,model,config,folds
+pp,LightGBM,reg_light,12
+pp,LightGBM,reg_strong,3
+pp,XGBoost,reg_strong,14
+pp,XGBoost,reg_light,1
+xpp,LightGBM,reg_light,9
+xpp,LightGBM,reg_strong,6
+xpp,XGBoost,reg_strong,15
